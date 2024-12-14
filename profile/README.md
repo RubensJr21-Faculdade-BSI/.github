@@ -1,0 +1,1 @@
+# Essa organização consiste em projetos desenvolvidos durante o curso de Bacharelado em Sistemas de Informação no IFES (Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo) Campus Serra
